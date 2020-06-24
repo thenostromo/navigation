@@ -7,12 +7,13 @@ Projects were created either on educational materials or for the reasons of the 
 
 | Title | Description | Showroom |
 | --- | --- | --- |
+| [FrontTestApp3](https://github.com/thenostromo/FrontTestApp3) | Interface for a ticket booking company (Sass) | [Website](https://thenostromo.github.io/FrontTestApp3)
 | [FrontTestApp2](https://github.com/thenostromo/FrontTestApp2) | Landing for camping company (Sass) | [Website](https://thenostromo.github.io/FrontTestApp2)
-| [FrontTestApp1](https://github.com/thenostromo/FrontTestApp2) | Landing for build company (Sass + Jquery + Gulp) | [Website](https://thenostromo.github.io/FrontTestApp2)
-| [ReactTestApp1](https://github.com/thenostromo/ReactTestApp1) | Website "Crown Clothing" [React] | [Website](https://thenostromo.github.io/ReactTestApp1)
+| [FrontTestApp1](https://github.com/thenostromo/FrontTestApp1) | Landing for construction company (Sass + Jquery + Gulp) | [Website](http://136.243.142.144:8008/)
+| [ReactTestApp1](https://github.com/thenostromo/ReactTestApp1) | Website "Crown Clothing" [React] | [Website](http://136.243.142.144:8007/)
 | [CountryChatVuejs](https://github.com/thenostromo/CountryChatVuejs) | A map with geo-chats. (Vuejs kit) | [Website](http://136.243.142.144:8004)
 | [ChatterVuejs](https://github.com/thenostromo/ChatterVuejs) | A simple chat. (Vuejs kit) | [Website](http://136.243.142.144:8001)
-| [TechRecipiesVuejs2](https://github.com/thenostromo/TechRecipiesVuejs2) | A simple task manager on the topic of "IT". (Vuejs kit) | [Website](http://136.243.142.144:8002)
+| [TechRecipiesVuejs2](https://github.com/thenostromo/TechRecipiesVuejs2) | A simple task manager on the topic of "IT". (Vuejs kit) | [Website](http://136.243.142.144:8001)
 
 ## PHP
 
